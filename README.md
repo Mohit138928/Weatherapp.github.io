@@ -19,6 +19,6 @@ Once the application is running, you can use the Weather Dashboard to:
 - Easily switch between different locations by entering a new location in the search bar.
 
 ## Contact
-If you have any questions, feedback, or encounter any issues while using the Weather Dashboard project, please feel free to contact me. You can reach me via email at [your.email@example.com](mailto:mauryamohit138@example.com) or by opening an issue on the GitHub repository.
+If you have any questions, or feedback, or encounter any issues while using the Weather Dashboard project, please feel free to contact me. You can reach me via email at [Mohit Maurya](mailto:mauryamohit138@example.com) or by opening an issue on the GitHub repository.
 
 Thank you for using the Weather Dashboard project! Enjoy staying informed about the weather in your area and beyond.
